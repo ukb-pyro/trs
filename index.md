@@ -5,9 +5,18 @@
 
 ## ❗️ Teleology 
 ### rSM-EdM-GJc, 2015-2025
-#### 🌊  
+#### 🌊 
+Shakespeare
+   - Reticular Formation (His Oeuvre)
 #### ❤️ 
-#### 🔁 
+Mozart
+   - Sense & Sensibility
+      - Don Giovanni
+      - Commandatore 
+#### 🔁
+Einstein
+   - Cosmic Twin (Bandwidth)
+   - Earth Twin (Context Length)
 #### 🎭
 Darwin
    - La Distinction?
@@ -24,15 +33,28 @@ Darwin
             - Hamlet GPT (Context Length)   
 #### 🤖 
 Raphael
+   - School of Athens   
+      - Juxtaposes vast epochs
+      - Ukubona
+         - Perspectivism v1.0 🌊
+            - Freud, v2.0  ❤️ 
+            - Greco (Hellenic), v3.0 🔁 
+            - Judaism, v4.0 🎭
+            - Christianity, v5.0 🤖
  
 ## ⭕️ Recursive
 ### 🌊 ❤️ 🔁 🎭 🤖, 10/2024-06/2025 
 
 #### 🤖
-- Update (implied dynamism)
-- Greco, Judaic -> Chistian
-- Athena, Solomon -> Madonnas
+- Update (implied dynamism in Raphael)
+   - Heraclitus is front-and-center in School of Athens
+      - Parmenedes has no place in Raphael's world 
+   - But everyone only sees Plato, Aristotle, and Socrates
+   - Raphael is a master of space, perspectivism, and rhythm 
+- Greco, Judaic -> Chistian (-GJc)
+- Athena, Solomon -> Madonnas (r)
 #### 🌊 
+
 #### ❤️ 
 #### 🔁 
 #### 🎭 
